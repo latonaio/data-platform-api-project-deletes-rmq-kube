@@ -1,0 +1,1 @@
+# data-platform-api-project-deletes-rmq-kube
